@@ -1,6 +1,6 @@
 {
   "name": "com.pixeldough.ntscvolume",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "NTSC Volume",
   "description": "A Post-processing volume that gives your game an NTSC-like appearence.",
   "unity": "2021.2",
